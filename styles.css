@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.holder div{
+    background-color: grey;
+    color: red;
+}
